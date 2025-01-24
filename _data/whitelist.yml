@@ -124,7 +124,7 @@ projects:
   amd: 'yes'
   intel: 'yes'
   gdpr: 'yes'
-  gdpr-enable-steps: 'https://numberfields.asu.edu/NumberFields/forum_thread.php?id=355#2134'
+  gdpr-enable-steps: https://numberfields.asu.edu/NumberFields/forum_thread.php?id=355#2134
   team: https://numberfields.asu.edu/NumberFields/team_display.php?teamid=2069
   stats: https://gridcoinstats.eu/project/numberfields@home
   greylisted: 'no'
