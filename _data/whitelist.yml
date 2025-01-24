@@ -45,6 +45,7 @@ projects:
   amd: 'no'
   intel: 'no'
   gdpr: 'yes'
+  gdpr-enable-steps: https://denis.usj.es/denisathome/prefs.php?subset=project
   team: https://denis.usj.es/denisathome/team_display.php?teamid=1825
   stats: https://www.gridcoinstats.eu/project/denis@home
   greylisted: 'yes'
